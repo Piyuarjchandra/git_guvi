@@ -12,6 +12,7 @@ int main()
     while (t--)
     {
         cout<< "'Hello World'"<<endl;
+        cout<<"new to this"<<endl;
     }
     return 0;
 }
