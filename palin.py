@@ -1,3 +1,4 @@
+#added new function palindrome
 def palindrom(x):
     pn=0
     while(x):
