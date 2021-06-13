@@ -11,9 +11,10 @@ def fib(n):    # write Fibonacci series up to n
         a, b = b, a+b
     print()
 
-def fib2(n): # return Fibonacci series up to n
+def fib2(n): # return Fibonacci series up to n all this conflicts
     print(n)
+    ptint (Y)
 if __name__ == "__main__":
     import sys
-    fib(int(sys.argv[1]))
+    fib(int(sys.argv[1])1)
     #added new comment
