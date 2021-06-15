@@ -1,3 +1,4 @@
+#added new commit for hooks
 #added new function palindrome
 def palindrom(x):
     pn=0
